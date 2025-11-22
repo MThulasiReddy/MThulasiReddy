@@ -16,24 +16,6 @@
 
 ---
 
-<h3 align="left">Pro Stats 📊:</h3>
-<ul>
-    <li><a href="https://monkeytype.com/profile/thulasireddy" target="_blank"><img src="https://tse3.mm.bing.net/th/id/OIP.9iuUX8gILbJGa1BgMZO29gAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="30"/> Typing speed — <b>80 WPM</b> & counting,</a></li>
-  <li><a href="https://www.codechef.com/users/klu_2300030402" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" width="22"/> CodeChef streak — <b>120 days</b> & thriving.</a></li>
-</ul>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thulasireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thulasireddy" height="30" width="40" /></a>
-<a href="https://fb.com/thulasireddy.manchuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thulasireddy.manchuru" height="30" width="40" /></a>
-<a href="https://instagram.com/thulasi_reddyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thulasi_reddyy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/klu_2300030402" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="klu_2300030402" height="30" width="40" /></a>
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
@@ -60,6 +42,24 @@
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/><br/>Spring</td>
   </tr>
 </table>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thulasireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thulasireddy" height="30" width="40" /></a>
+<a href="https://fb.com/thulasireddy.manchuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thulasireddy.manchuru" height="30" width="40" /></a>
+<a href="https://instagram.com/thulasi_reddyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thulasi_reddyy" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/klu_2300030402" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="klu_2300030402" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Pro Stats 📊:</h3>
+<ul>
+    <li><a href="https://monkeytype.com/profile/thulasireddy" target="_blank"><img src="https://tse3.mm.bing.net/th/id/OIP.9iuUX8gILbJGa1BgMZO29gAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="30"/> Typing speed — <b>80 WPM</b> & counting,</a></li>
+  <li><a href="https://www.codechef.com/users/klu_2300030402" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" width="22"/> CodeChef streak — <b>120 days</b> & thriving.</a></li>
+</ul>
 
 ---
 
