@@ -15,8 +15,8 @@
 
 <h3 align="left">Achievements:</h3>
 <ul>
-  <li><a href="https://monkeytype.com/profile/thulasireddy" target="_blank"><img src="https://monkeytype.com/favicon.ico" width="20"/> Monkeytype typing speed — 80 WPM</a></li>
-  <li><a href="https://www.codechef.com/users/klu_2300030402" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" width="20"/> CodeChef streak — 120 days</a></li>
+  <li><a href="https://monkeytype.com/profile/thulasireddy" target="_blank"><img src="https://raw.githubusercontent.com/Miodec/monkeytype/master/public/favicon.ico" width="22"/> Monkeytype typing speed — <b>80 WPM</b></a></li>
+  <li><a href="https://www.codechef.com/users/klu_2300030402" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" width="22"/> CodeChef streak — <b>120 days</b></a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
