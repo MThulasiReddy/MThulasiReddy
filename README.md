@@ -13,11 +13,15 @@
 
 * 📫 How to reach me **[thulasireddy099@gmail.com](mailto:thulasireddy099@gmail.com)**
 
+---
+
 <h3 align="left">Achievements:</h3>
 <ul>
-    <li><a href="https://monkeytype.com/profile/thulasireddy" target="_blank"><img src="https://raw.githubusercontent.com/Miodec/monkeytype/master/public/apple-touch-icon.png" width="22"/> Monkeytype typing speed — <b>80 WPM</b></a></li>
-  <li><a href="https://www.codechef.com/users/klu_2300030402" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" width="22"/> CodeChef streak — <b>120 days</b></a></li>
+    <li><a href="https://monkeytype.com/profile/thulasireddy" target="_blank"><img src="https://monkeytype.com/apple-touch-icon.png" width="22"/> Monkeytype typing speed — <b>80 WPM</b></a></li>
+  <li><a href="https://www.codechef.com/users/klu_2300030402" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" width="22"/> CodeChef streak — <b>120 days</b></a></li>
 </ul>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,32 +31,36 @@
 <a href="https://www.codechef.com/users/klu_2300030402" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="klu_2300030402" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
-  <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/>AWS</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/><br/>Bash</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br/>C</td>
-    <td align="center" width="100"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br/>Django</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br/>Docker</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br/>Express</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br/>Git</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/><br/>Jenkins</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/><br/>Kubernetes</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br/>Linux</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br/>MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br/>MySQL</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/><br/>Nginx</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br/>Node.js</td>
-    <td align="center" width="100"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/><br/>React Native</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/><br/>Spring</td>
-  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/>AWS</td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/><br/>Bash</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br/>C</td>
+    <td align="center" width="100"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br/>Django</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br/>Docker</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br/>Express</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br/>Git</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java</td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/><br/>Jenkins</td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/><br/>Kubernetes</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br/>Linux</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br/>MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br/>MySQL</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/><br/>Nginx</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br/>Node.js</td>
+    <td align="center" width="100"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/><br/>React Native</td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/><br/>Spring</td>
+  </tr>
 </table>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MThulasiReddy&show_icons=true&locale=en&layout=compact" alt="MThulasiReddy" /></p>
 
