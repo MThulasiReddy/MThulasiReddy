@@ -3,15 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MThulasiReddy&label=Profile%20views&color=0e75b6&style=flat" alt="MThulasiReddy" /> </p>
 
-<p align="left"> <a href="https://github.com/MThulasiReddy"><img src="https://tse3.mm.bing.net/th/id/OIP.Xa0BEkwl0Zx4qnY9lMbD7gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="30" alt="MThulasiReddy" /></a> </p>
 
-* 🔭 I’m currently working on **Fullstack Projects**
+* I’m currently working on **Fullstack Projects**
 
-* 🌱 I’m currently learning **DSA**
+* I’m currently learning **DSA**
 
-* 👯 I’m looking to collaborate on **Cloud DevOps Projects**
+* I’m looking to collaborate on **Cloud DevOps Projects**
 
-* 📫 How to reach me **[thulasireddy099@gmail.com](mailto:thulasireddy099@gmail.com)**
+* How to reach me **[thulasireddy099@gmail.com](mailto:thulasireddy099@gmail.com)**
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MThulasiReddy&" alt="MThulasiReddy" /></p>
 
 ---
 
@@ -65,5 +66,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MThulasiReddy&show_icons=true&locale=en&layout=compact" alt="MThulasiReddy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MThulasiReddy&show_icons=true&locale=en" alt="MThulasiReddy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MThulasiReddy&" alt="MThulasiReddy" /></p>
