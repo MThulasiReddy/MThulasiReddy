@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="left">Achievements:</h3>
+<h3 align="left">Pro Stats 📊:</h3>
 <ul>
     <li><a href="https://monkeytype.com/profile/thulasireddy" target="_blank"><img src="https://tse3.mm.bing.net/th/id/OIP.9iuUX8gILbJGa1BgMZO29gAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="30"/> Monkeytype typing speed — <b>80 WPM</b></a></li>
   <li><a href="https://www.codechef.com/users/klu_2300030402" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" width="22"/> CodeChef streak — <b>120 days</b></a></li>
