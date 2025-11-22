@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MThulasiReddy&label=Profile%20views&color=0e75b6&style=flat" alt="MThulasiReddy" /> </p>
 
-<p align="left"> <a href="https://github.com/MThulasiReddy"><img src="https://github-profile-trophy.vercel.app/?username=MThulasiReddy" alt="MThulasiReddy" /></a> </p>
+<p align="left"> <a href="https://github.com/MThulasiReddy"><img src="https://tse3.mm.bing.net/th/id/OIP.Xa0BEkwl0Zx4qnY9lMbD7gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="30" alt="MThulasiReddy" /></a> </p>
 
 * 🔭 I’m currently working on **Fullstack Projects**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Achievements:</h3>
 <ul>
-    <li><a href="https://monkeytype.com/profile/thulasireddy" target="_blank"><img src="https://tse3.mm.bing.net/th/id/OIP.9iuUX8gILbJGa1BgMZO29gAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="22"/> Monkeytype typing speed — <b>80 WPM</b></a></li>
+    <li><a href="https://monkeytype.com/profile/thulasireddy" target="_blank"><img src="https://tse3.mm.bing.net/th/id/OIP.9iuUX8gILbJGa1BgMZO29gAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="30"/> Monkeytype typing speed — <b>80 WPM</b></a></li>
   <li><a href="https://www.codechef.com/users/klu_2300030402" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" width="22"/> CodeChef streak — <b>120 days</b></a></li>
 </ul>
 
